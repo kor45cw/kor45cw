@@ -1,6 +1,6 @@
 
 ## iOS Developer
-- Current working at KakaoBank.
+- Current working at HeyDealer.
 
 ## Interest
 - Mobile App Architecture
