@@ -1,6 +1,6 @@
 
 ## iOS Developer
-- Current working at HeyDealer.
+- Current working at PRND Company (HeyDealer).
 
 ## Interest
 - Mobile App Architecture
